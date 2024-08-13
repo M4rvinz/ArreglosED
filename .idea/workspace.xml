@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="613324f3-5469-4631-9b4a-b70e92819f46" name="Changes" comment="comentario en el main">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fes/aragon/inicio/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fes/aragon/modelo/agregar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fes/aragon/Main.java" beforeDir="false" />
+    <list default="true" id="613324f3-5469-4631-9b4a-b70e92819f46" name="Changes" comment="se cambio el main a la calse principal">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fes/aragon/inicio/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fes/aragon/inicio/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fes/aragon/modelo/agregar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fes/aragon/modelo/agregar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Principal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -87,12 +88,30 @@
       <option name="project" value="LOCAL" />
       <updated>1723517274454</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="se creo clase agregar">
+      <option name="closed" value="true" />
+      <created>1723517836839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723517836839</updated>
+    </task>
+    <task id="LOCAL-00006" summary="se cambio el main a la calse principal">
+      <option name="closed" value="true" />
+      <created>1723518079138</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723518079138</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicio proyecto" />
     <MESSAGE value="comentario en el main" />
-    <option name="LAST_COMMIT_MESSAGE" value="comentario en el main" />
+    <MESSAGE value="se creo clase agregar" />
+    <MESSAGE value="se cambio el main a la calse principal" />
+    <option name="LAST_COMMIT_MESSAGE" value="se cambio el main a la calse principal" />
   </component>
 </project>
